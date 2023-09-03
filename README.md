@@ -1,9 +1,10 @@
 # Drum Kit
 Features of the Project:
-
 Interactive Drum Kit for Learning: Our website features an interactive drum kit designed with learning in mind. Users can play various drum sounds by pressing keys on their keyboard or clicking on the drum images with their mouse.
 1. Multiple Drum Sounds: The project offers a diverse range of drum sounds, including snare drums, bass drums, cymbals, and more, enhancing the learning experience.
 2. Easy-to-Use Interface: The user-friendly interface makes it ideal for learners of all levels, from beginners to those looking to improve their drumming skills.
+
+![image](https://github.com/dev-world-rohit/DrumKit/assets/136791205/3fc07311-c2a2-440b-800f-8cc7a3e3aa1a)
 
 Need for this Project:
 The creation of our interactive drum kit website is driven by the need to provide an accessible and enjoyable learning platform for kids. In an era where digital tools are transforming education, our project fills the gap by offering an engaging, web-based resource for learning percussion instruments. It addresses the need for an easy-to-use, interactive tool that encourages hands-on practice, fosters a love for music, and aids in the development of drumming skills. Whether it's for formal music education or simply for the joy of learning, our website brings the world of drumming to learners' fingertips.
